@@ -37,7 +37,7 @@ Source: Kaggle - Laptop Price Dataset
 | Random Forest       | 358.79   | 210.09  | 0.8010   |
 | Gradient Boosting   | 301.97   | 194.19  | 0.8590   |
 | XGBoost             | 278.62   | 181.47  | 0.8800   |
-| Deep Neural Network | 779.20   | 485.30  | 0.0612   |
+| Deep Neural Network | 779.20   | 485.30  | 0.7123   |
 
 XGBoost produced the best results across all evaluation metrics. Neural networks underperformed, likely due to the tabular structure of the dataset and relatively small sample size.
 
