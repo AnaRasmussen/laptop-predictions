@@ -16,6 +16,7 @@ The dataset includes a variety of features for each laptop, such as:
 - Price in Euros (target variable)
 
 Source: Kaggle - Laptop Price Dataset
+https://www.kaggle.com/datasets/muhammetvarl/laptop-price
 
 ## Models Used
 
